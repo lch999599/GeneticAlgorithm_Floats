@@ -6,6 +6,7 @@
 <h2>Function</h2>
 
 
+<img src="images/Screenshot_1.jpg" width="" alt="alt_text" title="image_tooltip">
 <p>
 variables in the range (-10.10)
 </p>
@@ -66,10 +67,6 @@ math
 <p>
 
 
-<img src="images/Screenshot_1.jpg" width="" alt="alt_text" title="image_tooltip">
-variables in the range (-10.10)
-Minimum in point 0
-
 </p>
 <h2>Print Iterations </h2>
 
@@ -85,7 +82,7 @@ Minimum in point 0
 
 <p>
 
-<img src="images/Screenshot_3.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="images/Screenshot_5.jpg" width="" alt="alt_text" title="image_tooltip">
 
 </p>
 <h2>Show Plot</h2>
@@ -96,7 +93,7 @@ Shows the last individuals from iteration in 3D space. With a large number of ge
 </p>
 <h2>
 
-<img src="images/Screenshot_3.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="images/Screenshot_6.jpg" width="" alt="alt_text" title="image_tooltip">
 </h2>
 
 
@@ -109,7 +106,7 @@ Shows the change in value for the best individual for each iteration.
 <p>
 
 
-<img src="images/Screenshot_5.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="images/Screenshot_7.jpg" width="" alt="alt_text" title="image_tooltip">
 
 </p>
 <h2>Show Average </h2>
@@ -121,7 +118,7 @@ Shows the average adaptation of individuals after each iteration
 <p>
 
 
-<img src="images/Screenshot_6.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="images/Screenshot_8.jpg" width="" alt="alt_text" title="image_tooltip">
 
 </p>
 <h2>Show standard deviation</h2>
@@ -133,7 +130,7 @@ Shows the value of the standard deviation between individuals from the populatio
 <p>
 
 
-<img src="images/Screenshot_7.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="images/Screenshot_9.jpg" width="" alt="alt_text" title="image_tooltip">
 
 </p>
 <h2>Show Visualization</h2>
@@ -145,18 +142,18 @@ Shows the change in adaptation on the 3D graph for subsequent iterations.
 <p>
 
 
-<img src="images/Screenshot_8.jpg" width="" alt="alt_text" title="image_tooltip">
-
-</p>
-<p>
-
-
-<img src="images/Screenshot_9.jpg" width="" alt="alt_text" title="image_tooltip">
-
-</p>
-<p>
-
-
 <img src="images/Screenshot_10.jpg" width="" alt="alt_text" title="image_tooltip">
+
+</p>
+<p>
+
+
+<img src="images/Screenshot_11.jpg" width="" alt="alt_text" title="image_tooltip">
+
+</p>
+<p>
+
+
+<img src="images/Screenshot_12.jpg" width="" alt="alt_text" title="image_tooltip">
 
 </p>
