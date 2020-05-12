@@ -1,7 +1,7 @@
 <h1>Chromosome implementation</h1>
 
 
-<p>Genetic Algorithm
+<p>Genetic Algorithm for real Chromosome
 </p>
 <h2>Function</h2>
 
