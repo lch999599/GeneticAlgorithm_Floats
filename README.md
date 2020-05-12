@@ -13,7 +13,7 @@ variables in the range (-10.10)
 <p>
 Minimum in point 0
 </p>
-<h1>Technologies used</h1>
+<h1>Technologies</h1>
 
 
 <p>
