@@ -67,6 +67,8 @@ math
 
 
 <img src="images/Screenshot_1.jpg" width="" alt="alt_text" title="image_tooltip">
+variables in the range (-10.10)
+Minimum in point 0
 
 </p>
 <h2>Print Iterations </h2>
