@@ -157,3 +157,12 @@ Shows the change in adaptation on the 3D graph for subsequent iterations.
 <img src="images/Screenshot_12.jpg" width="" alt="alt_text" title="image_tooltip">
 
 </p>
+
+
+
+
+Author of the code: aga4227@gmail.com
+
+The code is part of university project.
+
+2020
